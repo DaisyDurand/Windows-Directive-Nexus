@@ -3,9 +3,8 @@
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
 ![Project Installing AD Domain Services](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2e3a3ab6-bc39-495b-85b5-558f9c659e9d)
 ![Project doploying th ADDS](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/d92fdec5-5836-43ee-9367-3515e403c5ce)
-![Project 1 NetBIOS domain name](
+![Project 1 NetBIOS domain name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7441adf8-cfe2-4099-a1cf-e4a99adc5beb)
 ![Project 1 Creating an admin users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/51d78813-8bfc-4de8-8236-f4502695b42a)
-https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7441adf8-cfe2-4099-a1cf-e4a99adc5beb)
 
 ![Project 1 Add user to member of domain admins](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a311385-71f1-4d18-8c1b-ac4bab51f85d)
 ![Project 1 User added ](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/39cea954-f471-4118-abbb-d01f45529398)
