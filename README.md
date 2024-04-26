@@ -1,6 +1,6 @@
 # Windows-Directive-Nexus
 ## Description
-This project involves Windows Server Deployment, Active Directory, Group Policy Objects, Python.
+This project involves deploying a Windows Server, Active Directory, Group Policy Objects, a python file that contains commands to create users and place them in certain organizations.
 
 ![Project Network Connections](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/33ccfa58-b779-4a14-8387-e3309fc3aa5e)
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
