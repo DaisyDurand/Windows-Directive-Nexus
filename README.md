@@ -12,9 +12,6 @@ This is based off of Josh Madakor's version. The only thing that has changed is 
 ![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/19018ddf-9dda-42a7-be36-0b7454ff9f5a)
 
 ## Step 1
-This is my Network Diagram. It is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
-
-![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/19018ddf-9dda-42a7-be36-0b7454ff9f5a)
 
 ![Project Network Connections](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/33ccfa58-b779-4a14-8387-e3309fc3aa5e)
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
