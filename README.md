@@ -6,6 +6,7 @@ This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 
 * Windows Server 2022 ISO
 * Windows 11 ISO
 * Oracle VM
+* Windows 10 machine
 
 ## Step 1
 
