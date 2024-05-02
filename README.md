@@ -9,7 +9,7 @@ This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 
 ## Network Diagram
 This is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
 
-![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/19018ddf-9dda-42a7-be36-0b7454ff9f5a)
+![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/4170dcfd-cf9b-4a6b-be9d-ac452515380a)
 
 ## Step 1
 
