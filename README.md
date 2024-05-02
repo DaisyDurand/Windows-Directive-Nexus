@@ -1,7 +1,7 @@
 # Windows-Directive-Nexus
 ## Description
 This project involves deploying a Windows Server 2022 ISO and a Windows 11 ISO on a Oracle VirtualBox. The server is the domain controller and houses active directory. There are two network adapters. One that connects to the internet and the other which connects to the private network. IP addresses will be assigned to the internal network. The external network will automatically get an IP address from the home network. NAT and RAS will be configured so that the clients on the private network can connect to the internet through the domain controller. DHCP will be installed on the domain controller so that when the Windows 11 is deployed it will automatically get an IP address. A python script will create users and place them in certain organizations. The Windows 11 machine will be joined to the Server. Users will have already been established and a user will log in to the machine.
-Group Policy Objects, 
+Group Policy Objects will be created. Local Link Multicast Name Resolution (LLMNR) will be disabled as it is a vulnerability. An account lockout policy will be created. Verbose Powershell Logging and Transcription will be enabled on the Windows Server machine. A script will be created to enumerate access control lists. 
 
 ![Project Network Connections](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/33ccfa58-b779-4a14-8387-e3309fc3aa5e)
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
