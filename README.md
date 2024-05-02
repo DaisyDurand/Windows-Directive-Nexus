@@ -33,3 +33,9 @@ Group Policy Objects will be created. Local Link Multicast Name Resolution (LLMN
 ![Project Marketing users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6264548b-bf1f-4b7a-86cc-5742263fb049)
 ![Project Sales success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/8c226bf7-a824-4e20-bd89-c8736f3606ac)
 ![Project Sales users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f4c4f808-5dc1-4923-abda-ab5d002c3fa0)
+![Account-Lockout-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/afd64cba-4993-4c17-b365-225f87a798be)
+![enum_acls ps1](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/44282eeb-c0d3-444f-ac4b-431a2163f067)
+![GPOs](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e0beb13b-4e9b-4b39-83f7-1686964b4134)
+![Windows-Powershell-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/dc6ac320-a54c-43d7-ba17-19c31aaa3e53)
+[Daisy Durand-Bibliography.docx](https://github.com/DaisyDurand/Windows-Directive-Nexus/files/15182822/Daisy.Durand-Bibliography.docx)
+
