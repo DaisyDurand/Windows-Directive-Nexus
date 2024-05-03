@@ -5,7 +5,6 @@ This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 
 * Windows Server 2022 ISO
 * Windows 11 ISO
 * Oracle VM
-* Windows 10 machine
 ## Network Diagram
 This is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
 
