@@ -15,6 +15,8 @@ This is based off of Josh Madakor's version. The only thing that has changed is 
 I named the first network connection because it was connected to the internet. The second network had it was automatically assigned an ip address.
 
 ![Project Network Connections](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/33ccfa58-b779-4a14-8387-e3309fc3aa5e)
+
+Assigned an IP address. DC-2022 is going to serve as the default gateway which is why one was not assigned.
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
 ![Project Installing AD Domain Services](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2e3a3ab6-bc39-495b-85b5-558f9c659e9d)
 ![Project doploying th ADDS](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/d92fdec5-5836-43ee-9367-3515e403c5ce)
