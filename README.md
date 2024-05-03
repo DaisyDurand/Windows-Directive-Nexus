@@ -1,16 +1,18 @@
 # Windows-Directive-Nexus
 ## Description
 This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 ISO within an Oracle VirtualBox environment. The server operates as the domain controller, housing active directory functionalities. Two network adapters are utilized: one interfaces with the internet, while the other connects to the private network. Internal network IP addresses are assigned, while the external network automatically obtains an IP address from the home network. NAT and RAS configurations enable clients on the private network to access the internet via the domain controller. DHCP is implemented on the domain controller to automate IP address allocation for the Windows 11 deployment. A Python script manages user creation and organizational placement. The Windows 11 machine is seamlessly integrated into the server. User accounts are pre-established, facilitating user login to the machine. 
+
 ## Environments Used
 * Windows Server 2022 ISO
 * Windows 11 ISO
 * Oracle VM
 ## Network Diagram
+
 This is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
 
 ![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/8dfc1bf7-649f-478a-a091-c675b98ca3ae)
 
-## Step 1
+## Step 1 - Assigning IP addresses
 
 The first network connection is connected to the internet, hence the name. The second network was automatically assigned an ip address which is how I knew it was connected to the internal network.
 
@@ -20,8 +22,11 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
 
-## Step 2
+## Step 2 - Active Directory Domain Services Installation
+
 ![Project Installing AD Domain Services](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2e3a3ab6-bc39-495b-85b5-558f9c659e9d)
+
+## Step 3 Creating the Domain
 ![Project doploying th ADDS](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/d92fdec5-5836-43ee-9367-3515e403c5ce)
 ![Project 1 NetBIOS domain name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7441adf8-cfe2-4099-a1cf-e4a99adc5beb)
 ![Project 1 Creating an admin users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/51d78813-8bfc-4de8-8236-f4502695b42a)
