@@ -80,5 +80,5 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project Sales users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f4c4f808-5dc1-4923-abda-ab5d002c3fa0)
 
 ## Step 15: Connecting The Windows 11 ISO to the Server (DC-2022)
-![connecting win to server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/cd42c338-9ecf-4dab-a6d9-d09908b7db2c)
+![connecting win to server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/460af374-e7e1-432f-bc34-05e420017775)
 ![User](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/0b1f53ba-0c8a-42af-9c9b-d1fa821300cb)
