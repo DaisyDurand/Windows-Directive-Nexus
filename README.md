@@ -12,7 +12,7 @@ This is based off of Josh Madakor's version. The only thing that has changed is 
 
 ![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/8dfc1bf7-649f-478a-a091-c675b98ca3ae)
 
-## Step 1 - Assigning IP addresses
+## Step 1: - Assigning IP addresses
 
 The first network connection is connected to the internet, hence the name. The second network was automatically assigned an ip address which is how I knew it was connected to the internal network.
 
@@ -22,34 +22,36 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
 
-## Step 2 - Active Directory Domain Services Installation
+## Step 2: - Active Directory Domain Services Installation
 
 ![Project Installing AD Domain Services](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2e3a3ab6-bc39-495b-85b5-558f9c659e9d)
 
-## Step 3 Creating the Domain
+## Step 3: Creating the Domain
 ![Project doploying th ADDS](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/d92fdec5-5836-43ee-9367-3515e403c5ce)
 ![Project 1 NetBIOS domain name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7441adf8-cfe2-4099-a1cf-e4a99adc5beb)
 
-## Step 4 Creating an Administrative User
+## Step 4: Creating an Administrative User
 ![Project 1 Creating an admin users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/51d78813-8bfc-4de8-8236-f4502695b42a)
 ![Project 1 Add user to member of domain admins](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a311385-71f1-4d18-8c1b-ac4bab51f85d)
 ![Project 1 User added ](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/39cea954-f471-4118-abbb-d01f45529398)
 
-## Step 5 Installing Remote Access and Routing
+## Step 5: Installing Remote Access and Routing
 ![Project adding remot access](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/591ff34e-f816-475c-87cd-f1312f64cd91)
 ![Project remote access](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/a3ebbb13-0ac8-48c9-b978-9e0387a4c5a2)
 
 ## IMPORTANT COMPUTER NAME IN WRONG PLACE
 ![Project Computer name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/19b858b0-6ab9-40f2-9d0d-60bce8826a21)
 
-## Step 6 Network Address Translation (NAT) Installation
+## Step 6: Network Address Translation (NAT) Installation
 ![Project configuring remote access server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/35f7c630-3865-4b3d-ad96-4738e887732f)
 ![Project configuring remote access summary](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/4949a30c-e25a-4440-bb61-f300be0c35ff)
 
-## Step 7 DHCP Installation
+## Step 7: DHCP Installation
 ![Project Installing DHCP](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/fc1173ac-4e5d-4164-8b4d-a46c91477881)
 ![Project Setting up DHCP](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/47a46344-d0fa-4397-b7ac-2f6ba1df1838)
 ![Project DHCP Scope is now added](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/82d1fd7f-c94e-400e-b743-d158c8efa58d)
+
+## Step 8: 
 ![Project Disabling IE enhanced security config](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/ed300a96-810d-43ea-96e3-d5986656657a)
 ![Project Creating users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/5138af55-fa6a-479b-87ab-cf1925980317)
 ![Project AD  Users success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bb5363bd-305e-418d-ac5f-3806b90c5679)
