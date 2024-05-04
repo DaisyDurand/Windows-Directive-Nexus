@@ -51,7 +51,7 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project Setting up DHCP](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/47a46344-d0fa-4397-b7ac-2f6ba1df1838)
 ![Project DHCP Scope is now added](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/82d1fd7f-c94e-400e-b743-d158c8efa58d)
 
-## Step 8: Disabling Internet Explorer Enhance Security Configuration
+## Step 8: Disabling Internet Explorer Enhanced Security Configuration
 ![Project Disabling IE enhanced security config](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/ed300a96-810d-43ea-96e3-d5986656657a)
 
 ## Step 9: Creating Users
