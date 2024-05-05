@@ -2,13 +2,13 @@
 ## Description
 This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 ISO within an Oracle VirtualBox environment. The server operates as the domain controller, housing active directory functionalities. Two network adapters are utilized: one interfaces with the internet, while the other connects to the private network. Internal network IP addresses are assigned, while the external network automatically obtains an IP address from the home network. NAT and RAS configurations enable clients on the private network to access the internet via the domain controller. DHCP is implemented on the domain controller to automate IP address allocation for the Windows 11 deployment. A Python script manages user creation and organizational placement. The Windows 11 machine is seamlessly integrated into the server. User accounts are pre-established, facilitating user login to the machine. 
 
+This project is based off of Josh Madakor's Active Directory tutorial.
+
 ## Environments Used
 * Windows Server 2022 ISO
 * Windows 11 ISO
 * Oracle VM
 ## Network Diagram
-
-This is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
 
 ![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2fd47e12-0dd7-44fc-9cb1-46114696962e)
 
