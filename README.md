@@ -82,3 +82,11 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ## Step 15: Connecting The Windows 11 ISO to the Server (DC-2022)
 ![connecting win to server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/460af374-e7e1-432f-bc34-05e420017775)
 ![User](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/0b1f53ba-0c8a-42af-9c9b-d1fa821300cb)
+
+![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
+![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
+![proof of connection between the devices](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f723ccaf-3718-474a-9985-c7e48b6c9f34)
+![joining the domain](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/011cd3a6-cc68-4f19-8e15-98f74a74148c)
+![DC server rename](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/be580ea7-e442-431f-8047-ab1c035708fa)
+![creating admin unit](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/9df4bd75-9671-45c9-b3e9-d57b969b5afb)
+![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2fd47e12-0dd7-44fc-9cb1-46114696962e)
