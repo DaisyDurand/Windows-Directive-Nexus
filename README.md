@@ -10,7 +10,7 @@ This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 
 
 This is based off of Josh Madakor's version. The only thing that has changed is the Server 2022 and the Windows 11 machine.
 
-![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/8dfc1bf7-649f-478a-a091-c675b98ca3ae)
+![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2fd47e12-0dd7-44fc-9cb1-46114696962e)
 
 ## Step 1: - Assigning IP addresses
 
@@ -31,6 +31,7 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project 1 NetBIOS domain name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7441adf8-cfe2-4099-a1cf-e4a99adc5beb)
 
 ## Step 4: Creating an Administrative User
+![creating admin unit](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/9df4bd75-9671-45c9-b3e9-d57b969b5afb)
 ![Project 1 Creating an admin users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/51d78813-8bfc-4de8-8236-f4502695b42a)
 ![Project 1 Add user to member of domain admins](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a311385-71f1-4d18-8c1b-ac4bab51f85d)
 ![Project 1 User added ](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/39cea954-f471-4118-abbb-d01f45529398)
@@ -79,14 +80,13 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project Sales success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/8c226bf7-a824-4e20-bd89-c8736f3606ac)
 ![Project Sales users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f4c4f808-5dc1-4923-abda-ab5d002c3fa0)
 
-## Step 15: Connecting The Windows 11 ISO to the Server (DC-2022)
+## Step 15: Renaming the PC and Connecting it to the Domain(DC-2022)
 ![connecting win to server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/460af374-e7e1-432f-bc34-05e420017775)
 ![User](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/0b1f53ba-0c8a-42af-9c9b-d1fa821300cb)
-
-![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
-![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
-![proof of connection between the devices](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f723ccaf-3718-474a-9985-c7e48b6c9f34)
 ![joining the domain](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/011cd3a6-cc68-4f19-8e15-98f74a74148c)
-![DC server rename](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/be580ea7-e442-431f-8047-ab1c035708fa)
-![creating admin unit](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/9df4bd75-9671-45c9-b3e9-d57b969b5afb)
-![Network Diagram](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2fd47e12-0dd7-44fc-9cb1-46114696962e)
+![proof of connection between the devices](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f723ccaf-3718-474a-9985-c7e48b6c9f34)
+![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
+![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
+
+
+
