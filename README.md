@@ -87,3 +87,11 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![proof of connection between the devices](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f501add9-b167-45b5-b360-bc26b84e8a1f)
 ![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
 ![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
+
+
+![PScript_Enable](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/fdb596bd-a96b-49ab-ad46-6607806756f9)
+![Account_Enabled](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/5c933df5-8b40-4242-8bc9-0bc6046a8ca3)
+![Password_Man](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f36860fe-5f52-411d-8969-5f93affd2fb4)
+![Account-Lockout-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/afd64cba-4993-4c17-b365-225f87a798be)
+![GPO](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a18fbb4-3de4-4ab5-8300-d7d789dafd88)
+![enum_acls ps1](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/44282eeb-c0d3-444f-ac4b-431a2163f067)
