@@ -1,4 +1,4 @@
-# Policy-Armor-on-a-Windows-Server
+# Policy-Armor
 ## Description
 Group Policy Objects are established, ensuring streamlined management. Mitigation measures include disabling Local Link Multicast Name Resolution (LLMNR) due to security concerns and implementing an account lockout policy. Additionally, verbose Powershell Logging and Transcription are activated on the Windows Server machine. Lastly, a script is developed to comprehensively enumerate access control lists.
 ## Environments Used
