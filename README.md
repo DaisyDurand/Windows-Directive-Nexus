@@ -81,7 +81,6 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project Sales users](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f4c4f808-5dc1-4923-abda-ab5d002c3fa0)
 
 ## Step 15: Renaming the PC and Connecting it to the Domain(DC-2022)
-![User](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/0b1f53ba-0c8a-42af-9c9b-d1fa821300cb)
 ![joining the domain](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/011cd3a6-cc68-4f19-8e15-98f74a74148c)
 ![proof of connection between the devices](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f501add9-b167-45b5-b360-bc26b84e8a1f)
 ![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
