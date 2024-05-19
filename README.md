@@ -88,16 +88,18 @@ Renamed the pc and made it a member of the domain.
 ![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
 
 # GPO
+
 ## Enabling User Accounts
 ![PScript_Enable](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/fdb596bd-a96b-49ab-ad46-6607806756f9)
 ![Account_Enabled](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/5c933df5-8b40-4242-8bc9-0bc6046a8ca3)
 
-## GPO for Password Management
+##Password Management
 ![Password_Man](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f36860fe-5f52-411d-8969-5f93affd2fb4)
 
-## GPO for Account Lockout
+## Account Lockout
 ![Account-Lockout-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/afd64cba-4993-4c17-b365-225f87a798be)
 
+## No LLMNR
 ## All GPOs
 ![GPO](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a18fbb4-3de4-4ab5-8300-d7d789dafd88)
 
