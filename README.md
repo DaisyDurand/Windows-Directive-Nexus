@@ -86,7 +86,7 @@ Renamed the pc and made it a member of the domain.
 ![proof in AD](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/bdea3fec-9506-46bf-b7ff-30a27791ad76)
 ![proof of user success](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/501495cc-d9bc-40a5-85f5-32d84980b58c)
 
-# GPO
+# Group Policy Objectives
 
 ## Enabling User Accounts
 ![PScript_Enable](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/fdb596bd-a96b-49ab-ad46-6607806756f9)
