@@ -22,6 +22,8 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 
 ![Project IPV4](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/e9313be1-09d4-41ac-a081-207f4ddc3d8a)
 
+![PC name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/7ff5f3b9-cc49-4960-8e92-a53977ffefe2)
+
 ## Step 2: - Active Directory Domain Services Installation
 
 ![Project Installing AD Domain Services](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/2e3a3ab6-bc39-495b-85b5-558f9c659e9d)
