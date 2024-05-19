@@ -42,9 +42,6 @@ Assigned an IP address. DC-2022 is going to serve as the default gateway which i
 ![Project remote access](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/a3ebbb13-0ac8-48c9-b978-9e0387a4c5a2)
 ![Project adding remot access](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/591ff34e-f816-475c-87cd-f1312f64cd91)
 
-## IMPORTANT COMPUTER NAME IN WRONG PLACE
-![Project Computer name](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/19b858b0-6ab9-40f2-9d0d-60bce8826a21)
-
 ## Step 6: Network Address Translation (NAT) Installation
 ![Project configuring remote access server](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/35f7c630-3865-4b3d-ad96-4738e887732f)
 ![Project configuring remote access summary](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/4949a30c-e25a-4440-bb61-f300be0c35ff)
