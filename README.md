@@ -1,4 +1,4 @@
-# Windows-Directive-Nexus
+![image](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/cacf87fc-088a-4b7c-b95e-23e50712aa80)# Windows-Directive-Nexus
 ## Description
 This project entails deploying a Windows Server 2022 ISO alongside a Windows 11 ISO within an Oracle VirtualBox environment. The server operates as the domain controller, housing active directory functionalities. Two network adapters are utilized: one interfaces with the internet, while the other connects to the private network. Internal network IP addresses are assigned, while the external network automatically obtains an IP address from the home network. NAT and RAS configurations enable clients on the private network to access the internet via the domain controller. DHCP is implemented on the domain controller to automate IP address allocation for the Windows 11 deployment. A Python script manages user creation and organizational placement. The Windows 11 machine is seamlessly integrated into the server. User accounts are pre-established, facilitating user login to the machine. 
 
@@ -99,7 +99,12 @@ Renamed the pc and made it a member of the domain.
 ## Account Lockout
 ![Account-Lockout-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/afd64cba-4993-4c17-b365-225f87a798be)
 
+## Powershell Logging
+![Powershell_Logging](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/dae34d3f-d956-409f-9d18-073954554f6d)
+
 ## No LLMNR
+![No_llmnr](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/c17ecab3-dff8-4d88-9360-ea9e47375f1b)
+
 ## All GPOs
 ![GPO](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a18fbb4-3de4-4ab5-8300-d7d789dafd88)
 
