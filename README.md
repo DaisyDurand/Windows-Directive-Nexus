@@ -96,9 +96,12 @@ Renamed the pc and made it a member of the domain.
 ![Password_Man](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/f36860fe-5f52-411d-8969-5f93affd2fb4)
 
 ## Account Lockout
+
 ![Account-Lockout-Policies](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/afd64cba-4993-4c17-b365-225f87a798be)
 
 ## Powershell Logging
+This policy enables PowerShell logging and transcription. This GPO combines multiple policies into one.
+
 ![Powershell_Logging](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/dae34d3f-d956-409f-9d18-073954554f6d)
 
 ## No LLMNR
@@ -108,4 +111,5 @@ Renamed the pc and made it a member of the domain.
 ![GPO](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/6a18fbb4-3de4-4ab5-8300-d7d789dafd88)
 
 ## Powershell Script
+This script will enumerate the Access Control List of each file or subdirectory within the current working directory.
 ![enum_acls ps1](https://github.com/DaisyDurand/Windows-Directive-Nexus/assets/147094227/44282eeb-c0d3-444f-ac4b-431a2163f067)
